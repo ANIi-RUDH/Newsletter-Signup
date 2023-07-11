@@ -54,5 +54,3 @@ app.post("/failure",function(req,res){
 app.listen(process.env.PORT || 3000,()=>{
   console.log("--SERVER IS HOT--");
 });
-// mailchimp apikey-  083eaed69cb97a3aba3f1571cd67dea2-us21
-// audience id-  d1da52b823
